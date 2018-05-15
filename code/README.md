@@ -18,6 +18,7 @@ where ddd refers to Day of Year (for example, 114 = April 24 UTC),
 and times refer to the end of the exposure.
 
 ## The first 8 FFIs - all within several hours of each other
+```
 kplr2009114174833_ffi-cal.fits      April 24, 17:48:33
 kplr2009114204835_ffi-cal.fits      April 24, 20:48:35
 kplr2009115002613_ffi-cal.fits      April 25, 00:26:13
@@ -26,7 +27,8 @@ kplr2009115080620_ffi-cal.fits      April 25, 08:06:20
 kplr2009115131122_ffi-cal.fits      April 25, 13:11:22
 kplr2009115173611_ffi-cal.fits      April 25, 17:36:11
 kplr2009116035924_ffi-cal.fits      April 26, 03:59:24
+```
 
 # Compare initial FFIs
-kplr2009114174833_ffi-cal.fits
-kplr2009114204835_ffi-cal.fits
+kplr2009114174833_ffi-cal.fits  
+kplr2009114204835_ffi-cal.fits  
